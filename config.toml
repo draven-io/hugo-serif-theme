@@ -8,8 +8,8 @@ title = "Draven v2"
   google_tag_manager_id = ""
 
   [params.homepage]
-    show_call_box = false
-    hide_view_all_services = false  # set to true to hide the View All Services button
+    show_call_box = true
+    hide_view_all_services = true  # set to true to hide the View All Services button
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
